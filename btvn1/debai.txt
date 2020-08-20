@@ -1,0 +1,7 @@
+-	Tìm hiểu về middleware.
+-	Đọc dữ liệu danh sách các tour du lịch từ file json sau từ file đồng bộ trong nodejs để tạo ra mảng các tour du lịch.
+-	Viết các route sau theo mô hình MVC đã được hướng dẫn : ( Model bỏ qua ).
+	+	Route 1: ‘tuor/’ :
+		‘/’ - method GET : Trả về danh sách tour ( response dạng json )
+‘/:id’ - method GET : Trả về thông tin của tour có id là :id ( response dạng json )
+
